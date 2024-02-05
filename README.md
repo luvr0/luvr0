@@ -2,7 +2,7 @@
 Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software.
 ##
 <div style="display: inline-block;">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=luvr0&show_icons=true&theme=dracula&include_all_commits=true" alt="stats">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=luvr0&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Luan%20GitHub%20Stats" alt="stats">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvr0&layout=compact&theme=dracula" alt="most-languages">
 </div>
 
