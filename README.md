@@ -1,15 +1,15 @@
 # My name is Luan 🧑‍💻
 
-**`Backend Developer`**
+**`Software Developer`**
 - 🚀 Building clean, scalable and maintainable software solutions;
 - 🎓 Graduated in Systems Analysis and Development;
 - 🌱 Currently studying cybersecutiry and english language;
-- 🔥 C++, C# enthusiast;
+- 🔥 C++, C# and reverse engineering enthusiast;
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,js,html,css)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,react,selenium,sequelize)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,postgres,vercel)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,ts,js,py,html,css)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,selenium)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,postgres,mysql)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=github,git,postman)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)<br/>
