@@ -20,8 +20,7 @@
   [![My Skills](https://skillicons.dev/icons?i=sequelize,postgres,mysql)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" alt="SQL Server"/>
   
   ### Tools and Others
-  [![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github,postman,visualstudio,vscode,pycharm,windows,linux)](https://skillicons.dev)
-  
+  [![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github,postman,visualstudio,vscode,pycharm,windows,linux)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="45" alt="DBeaver"/>
   </br>
 
   # 📊 GitHub Stats:
