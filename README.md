@@ -21,6 +21,7 @@
   
   ### Tools and Others
   [![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github,postman,visualstudio,vscode,pycharm,windows,linux)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="45" alt="DBeaver"/>
+  
   </br>
 
   # 📊 GitHub Stats:
