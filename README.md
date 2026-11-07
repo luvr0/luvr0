@@ -27,8 +27,18 @@
   # 📊 GitHub Stats:
   </br>
   
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=luvr0&theme=dark&hide_border=true&currentStreak.start=2022-01-01" width="425" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvr0&theme=dark&hide_border=true&layout=compact" width="300" />
-  </div>
+  <p align="center">
+    <img
+      src="https://streak-stats.demolab.com/?user=luvr0&theme=dark&hide_border=true&background=151515&date_format=Y"
+      width="425"
+      height="167"
+      alt="GitHub Streak"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=luvr0&theme=dark&hide_border=true&layout=compact&bg_color=151515"
+      width="360"
+      height="167"
+      alt="Linguagens mais usadas"
+    />
+  </p>
 </div>
